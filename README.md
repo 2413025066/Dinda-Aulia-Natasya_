@@ -1,4 +1,4 @@
-html
+<!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -148,6 +148,44 @@ html
               <p><strong>Dokumen PDF:</strong> 
                 <a href="dokumen/tugas_kurva.pdf" target="_blank" style="color:#ffffff;">Lihat PDF</a>
               </p>
+        </div>
+        <div class="project">
+            <h3>Kuis 1 Persamaan Misteri</h3>
+            <p>KUIS 1.</p>
+            <p><strong>tidak ada video:</strong> 
+                <a href="TIDAK ADA VIDEO" target="_blank" style="color:#ffffff;">Tap Here</a>
+              </p>
+              <p><strong>Dokumen PDF:</strong> 
+                <a href="dokumen/Kuis_1.pdf" target="_blank" style="color:#ffffff;">Lihat PDF</a>
+              </p>
+        </div>
+        <div class="project">
+            <h3>Kuis 2 Transformasi 2D</h3>
+            <p>KUIS 2.</p>
+            <p><strong>Link Video:</strong> 
+                <a href="https://youtu.be/iymmmF8gQGo" target="_blank" style="color:#ffffff;">Tap Here</a>
+              </p>
+              <p><strong>Dokumen PDF:</strong> 
+                <a href="dokumen/Kuis_2.pdf" target="_blank" style="color:#ffffff;">Lihat PDF</a>
+              </p>
+        </div>
+        <div class="project">
+            <h3>Kuis 3 Clipping Algoritm</h3>
+            <p>KUIS 3.</p>
+            <p><strong>Link Video:</strong> 
+                <a href="https://youtu.be/7oL7iwj5ZgI" target="_blank" style="color:#ffffff;">Tap Here</a>
+              </p>
+              <p><strong>Dokumen PDF:</strong> 
+                <a href="dokumen/Kuis_3.pdf" target="_blank" style="color:#ffffff;">Lihat PDF</a>
+              </p>
+        </div>
+        <div class="project">
+            <h3>Kuis 4 Algoritma Pemotongan Poligon</h3>
+            <p>KUIS 4.</p>
+            <p><strong>Link Video:</strong> 
+                <a href="https://youtu.be/7oL7iwj5ZgI" target="_blank" style="color:#ffffff;">Tap Here</a>
+              </p>
+        </div>
     </section>
     
     <section id="contact">
